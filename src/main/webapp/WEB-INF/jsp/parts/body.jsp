@@ -1,0 +1,1 @@
+<body background="resources/image/bg1.jpg">
